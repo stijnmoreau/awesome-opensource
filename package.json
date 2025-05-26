@@ -1,0 +1,10 @@
+{
+  "name": "awesome-opensource",
+  "version": "0.1.0",
+  "description": "Looking for an open-source alternative? Read me.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
