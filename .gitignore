@@ -8,3 +8,4 @@ dist/
 .env
 tmp/
 .pytest_cache/
+coverage/
