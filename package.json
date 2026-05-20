@@ -1,6 +1,6 @@
 {
   "name": "awesome-opensource",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "description": "Looking for an open-source alternative? Read me.",
   "main": "src/index.js",
   "scripts": {
